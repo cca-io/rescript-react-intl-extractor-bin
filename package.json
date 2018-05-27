@@ -1,0 +1,33 @@
+{
+  "name": "bs-react-intl-extractor-bin",
+  "version": "0.4.0",
+  "description": "Binaries for the bs-react-intl message extractor",
+  "author": "Christoph Knittel <christoph.knittel@cca.io>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cknitt/bs-react-intl-extractor-bin.git"
+  },
+  "bin": {
+    "bs-react-intl-extractor": "cli.js"
+  },
+  "files": [
+    "linux/bs-react-intl-extractor",
+    "macos/bs-react-intl-extractor",
+    "cli.js",
+    "index.js"
+  ],
+  "keywords": [
+    "cli",
+    "bin",
+    "binary",
+    "extract",
+    "extractor",
+    "reason",
+    "reasonml",
+    "react",
+    "intl",
+    "react-intl",
+    "bs-react-intl"
+  ]
+}
