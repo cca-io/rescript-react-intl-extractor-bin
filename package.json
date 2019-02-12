@@ -1,6 +1,6 @@
 {
   "name": "bs-react-intl-extractor-bin",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "Binaries for the bs-react-intl message extractor",
   "author": "Christoph Knittel <christoph.knittel@cca.io>",
   "license": "MIT",
