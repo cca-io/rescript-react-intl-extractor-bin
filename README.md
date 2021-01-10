@@ -1,9 +1,9 @@
 # bs-react-intl-extractor-bin
 
-macOS and Linux (64-bit) binaries for [bs-react-intl-extractor].
+macOS, Linux and Windows binaries for [bs-react-intl-extractor].
 
-[bs-react-intl-extractor] extracts messages for localization from [Reason] source files.
-This assumes that you are using the [bs-react-intl] bindings for [react-intl].
+[bs-react-intl-extractor] extracts messages for localization from [ReScript] or [Reason] source files.
+This assumes that you are using the [bs-react-intl] 2.x bindings for [react-intl].
 
 ## Installation
 
@@ -29,6 +29,7 @@ to extract messages from all Reason source files below `src`.
 
 For more information, see the [bs-react-intl-extractor] repo.
 
+[rescript]: https://rescript-lang.org/
 [bs-react-intl]: https://github.com/alexfedoseev/bs-react-intl
 [bs-react-intl-extractor]: https://github.com/cknitt/bs-react-intl-extractor
 [react-intl]: https://github.com/yahoo/react-intl
