@@ -1,19 +1,19 @@
 {
-  "name": "bs-react-intl-extractor-bin",
+  "name": "rescript-react-intl-extractor-bin",
   "version": "0.10.0",
-  "description": "Binaries for the bs-react-intl message extractor",
+  "description": "Binaries for the rescript-react-intl message extractor",
   "author": "Christoph Knittel <christoph.knittel@cca.io>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cknitt/bs-react-intl-extractor-bin.git"
+    "url": "https://github.com/cca-io/rescript-react-intl-extractor-bin.git"
   },
   "bin": {
-    "bs-react-intl-extractor": "cli.js"
+    "rescript-react-intl-extractor": "cli.js"
   },
   "files": [
-    "linux/bs-react-intl-extractor",
-    "macos/bs-react-intl-extractor",
+    "linux/rescript-react-intl-extractor",
+    "macos/rescript-react-intl-extractor",
     "cli.js",
     "index.js"
   ],
@@ -23,11 +23,10 @@
     "binary",
     "extract",
     "extractor",
-    "reason",
-    "reasonml",
+    "rescript",
     "react",
     "intl",
     "react-intl",
-    "bs-react-intl"
+    "rescript-react-intl"
   ]
 }
