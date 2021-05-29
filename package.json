@@ -1,6 +1,6 @@
 {
   "name": "rescript-react-intl-extractor-bin",
-  "version": "0.11.0",
+  "version": "0.12.0",
   "description": "Binaries for the rescript-react-intl message extractor",
   "author": "Christoph Knittel <christoph.knittel@cca.io>",
   "license": "MIT",
@@ -14,6 +14,7 @@
   "files": [
     "linux/rescript-react-intl-extractor",
     "macos/rescript-react-intl-extractor",
+    "windows/rescript-react-intl-extractor.exe",
     "cli.js",
     "index.js"
   ],
